@@ -1,0 +1,474 @@
+[
+{
+    "richContent": [
+      [
+        {
+          "type": "chips",
+          "options": [
+            {
+              "link": "http://127.0.0.1:5500/contentDetails.html?52",
+              "text": "RSVP Black Pants",
+              "image": {
+                "src": {
+                  "rawUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/2/tr:w-960,/42d9b22P20023_1.jpg?rnd=20200526195200"
+                }
+              }
+            },
+            {
+              "text": "Cider Grey Pants",
+              "link": "http://127.0.0.1:5500/contentDetails.html?53",
+              "image": {
+                "src": {
+                  "rawUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/a/tr:w-960,/1ad5313NF-CD20221107204231TS-Grey_1.jpg?rnd=20200526195200"
+                }
+              }
+            },
+            {
+              "text": "Twenty Dresses By Nykaa Fashion",
+              "link": "http://127.0.0.1:5500/contentDetails.html?54",
+              "image": {
+                "src": {
+                  "rawUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/7/tr:w-960,/e74dc32BT0724_1.jpg?rnd=20200526195200"
+                }
+              }
+            },
+            {
+              "text": "VERO MODA Green Pants",
+              "link": "http://127.0.0.1:5500/contentDetails.html?55",
+              "image": {
+                "src": {
+                  "rawUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/8/2/tr:w-960,/8210ee0NYK_VEROM00025647_1.jpg?rnd=20200526195200"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    ]
+  },
+
+
+
+  {
+    "richContent": [
+      [
+        {
+          "type": "chips",
+          "options": [
+            {
+              "link": "http://127.0.0.1:5500/contentDetails.html?46",
+              "text": "Styli Blazer",
+              "image": {
+                "src": {
+                  "rawUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/b/0/tr:w-960,/b049d7aStyli-7002907540_1.jpg?rnd=20200526195200"
+                }
+              }
+            },
+            {
+              "text": "Style Quotient Shrug",
+              "link": "http://127.0.0.1:5500/contentDetails.html?47",
+              "image": {
+                "src": {
+                  "rawUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/s/s/tr:w-960,/ss19sqahilya_off_wt_1_96b81710.jpg?rnd=20200526195200"
+                }
+              }
+            },
+            {
+              "text": "Forever New Beige Blazer",
+              "link": "http://127.0.0.1:5500/contentDetails.html?48",
+              "image": {
+                "src": {
+                  "rawUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/6/tr:w-960,/6678b1627741904_1.jpg?rnd=20200526195200"
+                }
+              }
+            },
+            {
+              "text": "Nykd By Nykaa Jet Black Hoodie",
+              "link": "http://127.0.0.1:5500/contentDetails.html?49",
+              "image": {
+                "src": {
+                  "rawUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/8/c/tr:w-960,/8c910fcNYAT237-Jet-Black_1.jpg?rnd=20200526195200"
+                }
+              }
+            },
+            {
+                "text": "VERO MODA Denim Jacket",
+                "link": "http://127.0.0.1:5500/contentDetails.html?50",
+                "image": {
+                  "src": {
+                    "rawUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/d/tr:w-960,/dd8607f245198901-g_1.jpg?rnd=20200526195200"
+                  }
+                }
+              }
+          ]
+        }
+      ]
+    ]
+  },
+
+
+{
+    "richContent": [
+      [
+        {
+          "type": "chips",
+          "options": [
+            {
+              "link": "http://127.0.0.1:5500/contentDetails.html?41",
+              "text": "Glamcci Pink Dress",
+              "image": {
+                "src": {
+                  "rawUrl": "https://rukminim1.flixcart.com/image/832/832/kuwzssw0/dress/h/o/h/m-rns-3027-glamcci-original-imag7wxft5hd7n8z.jpeg?q=70"
+                }
+              }
+            },
+            {
+              "text": "VERO MODA Purple Dress",
+              "link": "http://127.0.0.1:5500/contentDetails.html?43",
+              "image": {
+                "src": {
+                  "rawUrl": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/c/w/m/s-na-123047201-vero-moda-original-imagz864fzzbnqfq.jpeg?q=70"
+                }
+              }
+            },
+            {
+              "text": "QUIZ White Dress",
+              "link": "http://127.0.0.1:5500/contentDetails.html?44",
+              "image": {
+                "src": {
+                  "rawUrl": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/7/9/c/xxl-00100036403-quiz-original-imagmxmnxzaq9yy9.jpeg?q=70"
+                }
+              }
+            },
+            {
+              "text": "QUIZ Sheath Dress",
+              "link": "http://127.0.0.1:5500/contentDetails.html?45",
+              "image": {
+                "src": {
+                  "rawUrl": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/p/0/5/m-00100036051-quiz-original-imagmxmq7qkrswg8.jpeg?q=70"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    ]
+  },
+
+
+
+  {
+    "richContent": [
+      [
+        {
+          "type": "chips",
+          "options": [
+            {
+              "link": "http://127.0.0.1:5500/contentDetails.html?35",
+              "text": "Full Sleeve Work Shirt Cotton Tunic Top",
+              "image": {
+                "src": {
+                  "rawUrl": "https://m.media-amazon.com/images/I/51ZESyFmSgL._UX679_.jpg"
+                }
+              }
+            },
+            {
+              "text": "Yellow Tokyo Talkies Top",
+              "link": "http://127.0.0.1:5500/contentDetails.html?36",
+              "image": {
+                "src": {
+                  "rawUrl": "https://rukminim1.flixcart.com/image/832/832/xif0q/top/7/u/n/l-tttp003124-tokyo-talkies-original-imafk8ynguyznyvv-bb.jpeg?q=70"
+                }
+              }
+            },
+            {
+              "text": "Pink Casual Top",
+              "link": "http://127.0.0.1:5500/contentDetails.html?37",
+              "image": {
+                "src": {
+                  "rawUrl": "https://rukminim1.flixcart.com/image/832/832/xif0q/top/x/u/z/l-puff-crop-top-women-alle-moda-original-imaggupecv72zstm.jpeg?q=70"
+                }
+              }
+            },
+            {
+              "text": "Top",
+              "link": "http://127.0.0.1:5500/contentDetails.html?38",
+              "image": {
+                "src": {
+                  "rawUrl": "https://rukminim1.flixcart.com/image/832/832/xif0q/top/s/n/l/xxl-0013-top-dl-fashion-original-imaggf53g4fwqhye.jpeg?q=70"
+                }
+              }
+            },
+            {
+                "text": "MADAME Beige Crop Top",
+                "link": "http://127.0.0.1:5500/contentDetails.html?39",
+                "image": {
+                  "src": {
+                    "rawUrl": "https://rukminim1.flixcart.com/image/832/832/xif0q/top/g/z/2/m-m2w18522-beige-madame-original-imaghht7bvujmey6.jpeg?q=70"
+                  }
+                }
+              },
+              {
+                  "text": "Showoff Dark Blue Crop Top",
+                  "link": "http://127.0.0.1:5500/contentDetails.html?40",
+                  "image": {
+                    "src": {
+                      "rawUrl": "https://rukminim1.flixcart.com/image/832/832/l12h1u80/top/x/h/f/xl-ae-10173-navybluewhite-showoff-original-imagcpnb9y95endz.jpeg?q=70"
+                    }
+                  }
+                }
+          ]
+        }
+      ]
+    ]
+  }
+
+,
+  {
+    "richContent": [
+      [
+        {
+          "type": "chips",
+          "options": [
+            {
+              "link": "http://127.0.0.1:5500/contentDetails.html?32",
+              "text": "Blue Ronin",
+              "image": {
+                "src": {
+                  "rawUrl": "https://m.media-amazon.com/images/I/61hq93Nh6UL._UX679_.jpg"
+                }
+              }
+            },
+            {
+              "text": "Van Heusen Women Shirt",
+              "link": "http://127.0.0.1:5500/contentDetails.html?33",
+              "image": {
+                "src": {
+                  "rawUrl": "https://m.media-amazon.com/images/I/61m-YkGFzIL._UX569_.jpg"
+                }
+              }
+            },
+            {
+              "text": "Woven Cuff Sleeve Shirt",
+              "link": "http://127.0.0.1:5500/contentDetails.html?34",
+              "image": {
+                "src": {
+                  "rawUrl": "https://m.media-amazon.com/images/I/41KIgwb5cYL.jpg"
+                }
+              }
+            },
+            {
+              "text": "Full Sleeve Work Shirt Cotton Tunic Top",
+              "link": "http://127.0.0.1:5500/contentDetails.html?35",
+              "image": {
+                "src": {
+                  "rawUrl": "https://m.media-amazon.com/images/I/51ZESyFmSgL._UX679_.jpg"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    ]
+  }
+
+
+
+ ,
+  {
+    "richContent": [
+      [
+        {
+          "type": "chips",
+          "options": [
+            {
+              "link": "http://127.0.0.1:5500/contentDetails.html?56",
+              "text": "Gajra GangPurple Saree",
+              "image": {
+                "src": {
+                  "rawUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/3/1/tr:w-960,/3164477LGAJRA00003586_1.jpg?rnd=20200526195200"
+                }
+              }
+            },
+            {
+              "text": "Red Floral Print Saree By Aarake",
+              "link": "http://127.0.0.1:5500/contentDetails.html?57",
+              "image": {
+                "src": {
+                  "rawUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/8/tr:w-960,/080a251DSBPGT01N30037314-BLUE_1.jpg?rnd=20200526195200"
+                }
+              }
+            },
+            {
+              "text": "Koskii Mauve Saree",
+              "link": "http://127.0.0.1:5500/contentDetails.html?58",
+              "image": {
+                "src": {
+                  "rawUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/6/tr:w-960,/063aa25SAUS0018647-MAUVE_1.jpg?rnd=20200526195200"
+                }
+              }
+            },
+            {
+              "text": "Monjolika Fashion Red Saree",
+              "link": "http://127.0.0.1:5500/contentDetails.html?59",
+              "image": {
+                "src": {
+                  "rawUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/4/tr:w-960,/a4da388NY_FMNJK000719_1.jpg?rnd=20200526195200"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    ]
+  }
+
+
+,
+  {
+    "richContent": [
+      [
+        {
+          "type": "chips",
+          "options": [
+            {
+              "link": "http://127.0.0.1:5500/contentDetails.html?31",
+              "text": "MIZAGO Women's",
+              "image": {
+                "src": {
+                  "rawUrl": "https://m.media-amazon.com/images/I/612MK5U7faL._UY741_.jpg"
+                }
+              }
+            },
+            {
+              "text": "Bunaai Blue Anarkali Set",
+              "link": "http://127.0.0.1:5500/contentDetails.html?63",
+              "image": {
+                "src": {
+                  "rawUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/e/tr:w-960,/2ec70cdBUN23NF102_1.jpg?rnd=20200526195200"
+                }
+              }
+            },
+            {
+              "text": "Meeranshi White Anarkali Set",
+              "link": "http://127.0.0.1:5500/contentDetails.html?64",
+              "image": {
+                "src": {
+                  "rawUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/2/tr:w-960,/e2a9416MER678C_1.jpg?rnd=20200526195200"
+                }
+              }
+            },
+            {
+              "text": "Rain & Rainbow Kurta Set",
+              "link": "http://127.0.0.1:5500/contentDetails.html?65",
+              "image": {
+                "src": {
+                  "rawUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/8/6/tr:w-960,/862c845MRAINR00000393_1.jpg?rnd=20200526195200"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    ]
+  }
+
+
+
+,
+  {
+    "richContent": [
+      [
+        {
+          "type": "chips",
+          "options": [
+            {
+              "link": "http://127.0.0.1:5500/contentDetails.html?60",
+              "text": "Likha Yellow Lehenga",
+              "image": {
+                "src": {
+                  "rawUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/9/tr:w-960,/5963584MLIKAA00002308_1.jpg?rnd=20200526195200"
+                }
+              }
+            },
+            {
+              "text": "Biba Blue Lehenga Set",
+              "link": "http://127.0.0.1:5500/contentDetails.html?61",
+              "image": {
+                "src": {
+                  "rawUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/8/tr:w-960,/18cf9acSKDFESTIVE8367AW22TURQ_1.jpg?rnd=20200526195200"
+                }
+              }
+            },
+            {
+              "text": "Likha Red Ghoomar Lehenga",
+              "link": "http://127.0.0.1:5500/contentDetails.html?62",
+              "image": {
+                "src": {
+                  "rawUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/9/tr:w-960,/5963584MLIKAA00002311_01.jpg?rnd=20200526195200"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    ]
+  }
+
+,
+  {
+    "richContent": [
+      [
+        {
+          "type": "chips",
+          "options": [
+            {
+              "link": "http://127.0.0.1:5500/contentDetails.html?6",
+              "text": "Levi's Men's Regular Fit T-Shirt",
+              "image": {
+                "src": {
+                  "rawUrl": "https://m.media-amazon.com/images/I/71xiduQ8pyL._UY879_.jpg"
+                }
+              }
+            },
+            {
+              "text": "Puma Men Sportstyle Core",
+              "link": "http://127.0.0.1:5500/contentDetails.html?7",
+              "image": {
+                "src": {
+                  "rawUrl": "https://m.media-amazon.com/images/I/51kwLVc83mL._UX679_.jpg"
+                }
+              }
+            },
+            {
+              "text": "Jockey 2714 Men's",
+              "link": "http://127.0.0.1:5500/contentDetails.html?8",
+              "image": {
+                "src": {
+                  "rawUrl": "https://m.media-amazon.com/images/I/71f-eCLSudL._UY879_.jpg"
+                }
+              }
+            },
+            {
+              "text": "LEOTUDE Cotton",
+              "link": "http://127.0.0.1:5500/contentDetails.html?9",
+              "image": {
+                "src": {
+                  "rawUrl": "https://m.media-amazon.com/images/I/613KABeTdwL._UY879_.jpg"
+                }
+              }
+            },
+            {
+              "text": "LEOTUDE Men's",
+              "link": "http://127.0.0.1:5500/contentDetails.html?10",
+              "image": {
+                "src": {
+                  "rawUrl": "https://m.media-amazon.com/images/I/61bzvKukDhL._UX679_.jpg"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    ]
+  }]
